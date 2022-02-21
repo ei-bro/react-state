@@ -1,8 +1,10 @@
-import Stateexample from "./component/StateExample";
+import React from "react";
+import "./app.css";
+import Mycounter from "./component/MyCounter";
 function App() {
     return (
         <div>
-            <Stateexample />
+            <Mycounter />
         </div>
     );
 }
