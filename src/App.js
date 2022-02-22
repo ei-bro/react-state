@@ -1,6 +1,6 @@
 import React from "react";
-import "./app.css";
 import Mycounter from "./component/MyCounter";
+import "./app.css";
 function App() {
     return (
         <div>

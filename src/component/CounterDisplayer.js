@@ -1,9 +1,7 @@
 import React, { Component } from "react";
 
-class Counterdisplayer extends Component {
+export default class CounterDisplayer extends Component {
     render() {
-        return <h1>All Click counter : {this.props.value}</h1>;
+        return <h1>All clicks Counter : {this.props.value}</h1>;
     }
 }
-
-export default Counterdisplayer;
