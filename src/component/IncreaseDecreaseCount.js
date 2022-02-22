@@ -13,7 +13,7 @@ const Increasedecreasecount = () => {
         setCount(0);
     };
     return (
-        <div>
+        <div className="container">
             <h1>Initial click count : {count} </h1>
             <div>
                 <button onClick={ResetCount}>Reset count</button>
