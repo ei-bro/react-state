@@ -6,6 +6,8 @@ import "./app.css";
 function App() {
     return (
         <div>
+            {/* <Mycounter /> */}
+            {/* <IncreaseDecreaseCount /> */}
             <UseEffectForTitle />
         </div>
     );

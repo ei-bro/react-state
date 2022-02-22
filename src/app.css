@@ -2,7 +2,7 @@ body {
     background-color: #e4e4e4;
 }
 .container {
-    width: 500px;
+    width: 700px;
     margin: 0 auto;
     text-align: center;
     margin-top: 50px;
@@ -15,8 +15,9 @@ button {
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 20px;
     margin: 10px;
+    font-weight: bolder;
 }
 button:hover {
     background-color: #139218;
